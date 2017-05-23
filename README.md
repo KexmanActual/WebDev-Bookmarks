@@ -1,4 +1,4 @@
-# Frontend Development [![Awesome]
+# Frontend Development
 **Manually curated collection of resources for frontend web developers.**
 
 Lorem Ipsum lol.
