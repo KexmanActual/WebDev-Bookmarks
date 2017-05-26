@@ -37,6 +37,8 @@ Other recently used links
 + **[StackShare](https://stackshare.io/)**: Find out what languages websites use.
 + **[HTML5Up](https://html5up.net/)**: Library of HTML Templates.
 + **[Box-Model Suburban](https://medium.freecodecamp.com/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1)**: Explaining the CSS Box model.
++ **[Developing a WordPress Theme](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)**: A tutorial walkthrough on how to turn any plain HTML website into a customizable website or blog.
++ **[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)**: A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 
 ## Chrome Extensions
 
