@@ -13,6 +13,7 @@ Misc useful tools.
 + **[Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/)**: Page speed gauge by Google.
 + **[LoremIpsum](http://loripsum.net/)**: A lorem Ipsum that isn't shit.
 + **[CSS Unpacker](http://cssunpacker.com/)**: First Google result for unpacking minified CSS.
++ **[PNG2ICO](http://www.png2ico.com/)**: Efficient PNG to ICO converter for FavIcons.
 
 
 ## Resources
